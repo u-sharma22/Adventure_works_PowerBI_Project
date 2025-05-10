@@ -1,5 +1,5 @@
 # Adventure_works_PowerBI_Project
-This is Adventure_Works_PowerBI Reproting and Dasboards Project for data insights and analyzation
+This is Adventure_Works_PowerBI Reporting and Dashboards Project for data insights and analyzation
 
 This is the first project I created for my Data Analysis portfolio, as a part of Maven Analytics Power BI Course and developed a bit further using some tips from other resources — shout out to Guy In A Cube for some very cool tips and videos.
 
